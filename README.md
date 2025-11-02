@@ -1,5 +1,3 @@
-export = 10.201.122.98
-
 # Redirecting to the secret page
 
 To do this we used curl command to access
