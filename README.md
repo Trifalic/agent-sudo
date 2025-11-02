@@ -68,7 +68,8 @@ cd  _cutie.png.extracted
 Here we got one file 8702.zip. Now we are going to get the hash of this fill using JohnTheRipper
 
 To do that we can type the command
-```/usr/sbin/zip2john 8702.zip > hashes.txt
+```
+/usr/sbin/zip2john 8702.zip > hashes.txt
 ```
 
 Now the new file will be made with the name hashes.txt which will contain the hash of the zip file from which we can get the password. So now we can do 
